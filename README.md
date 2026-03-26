@@ -62,4 +62,4 @@ When the bot encounters a complex problem (e.g., "How do I cross this lava lake?
 - **Slow Performance**: The PyTorch training and Ollama inference can be resource-intensive. Ensure your machine has sufficient RAM and CPU/GPU power.
 
 ---
-Developed by Manus AI for advanced Minecraft automation.
+Developed by ME, for AI advanced Minecraft automation.
